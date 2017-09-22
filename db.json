@@ -1,0 +1,65 @@
+{
+	"locations": [
+		{
+		"name": "Minnetonka",
+		"internalid": 123
+		},
+		{
+			"name": "Minneapolis",
+			"internalid": 456
+		}, {
+			"name": "Scottsdale",
+			"internalid": 789
+		}
+	],
+	"fittings": [
+		{
+			"name": "nFlight Complete Bag Fitting",
+			"internalid": 321,
+			"duration": 2.0,
+			"price": 400
+		},
+		{
+			"name": "nFlight Complete Bag Fitting with Studio B",
+			"internalid": 654,
+			"duration": 1.0,
+			"price": 200
+		},
+		{
+			"name": "nFlight Driver Fitting",
+			"internalid": 987,
+			"duration": 1.5,
+			"price": 100
+		}
+	],
+	"fitters":[
+		{
+			"name": "Chris Curley",
+			"internalid": 111,
+			"description": "Chris has been in the golf industry since....",
+			"imageURL":
+			"https://s3.amazonaws.com/flexbooker_static/d63573a1-283c-4d79-94cc-6dc9 45d95051"
+		},
+		{
+			"name": "Brian Hills",
+			"internalid": 222,
+			"description": "Brian has been in the Golf Industry since....",
+			"imageURL":
+			"https://s3.amazonaws.com/flexbooker_static/85d4ff10-83b6-40b1-bc39-7e89 50dd1ca2"
+		}
+	],
+	"daysAvailable": [
+		"01",
+		"02",
+		"04",
+		"10",
+		"22",
+		"31"
+	],
+	"timesAvailable": 
+	[
+		"8:00",
+		"13:30",
+		"16:00"
+	]
+}
